@@ -487,14 +487,7 @@ li:hover{
     border-bottom: 0.2px solid white;
   
 }
-img{
-    margin-bottom: 0px;
-    height: 50vh;
-    margin-left: auto;
-    display: flex;
-    justify-content: end;
-    padding-right: 60px;
-}
+
 .text-container{
     width: 100%;
     position: absolute;
