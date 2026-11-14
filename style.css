@@ -441,9 +441,7 @@ p{
     z-index: 1000;
     
 }
-.img{
-    height: 0px;
-}
+
 ul{ 
     display: flex;
     cursor: pointer;
@@ -485,7 +483,7 @@ li:hover{
 
 .hero-section{
     background-color: rgb(0, 0, 0);
-    height: 600vh;
+    height: 100vh;
     border-bottom: 0.2px solid white;
   
 }
@@ -513,6 +511,9 @@ li:hover{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
     margin-top: 0px;
+}
+.img{
+    display: none;
 }
 .designing-webs, .about{
     position: absolute;
