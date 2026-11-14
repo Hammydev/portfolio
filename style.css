@@ -428,6 +428,7 @@ p{
     
 .nav-bar {
     display: grid;
+    
     height: 60px;
     width: auto;
     margin: 0px;
@@ -436,7 +437,7 @@ p{
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     padding: 0px;
     border-color: rgb(245, 249, 252);
-    position: sticky;
+    position: relative;
     top: 0;
     z-index: 1000;
     
