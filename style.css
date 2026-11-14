@@ -441,7 +441,9 @@ p{
     z-index: 1000;
     
 }
-
+.img{
+    height: 0px;
+}
 ul{ 
     display: flex;
     cursor: pointer;
