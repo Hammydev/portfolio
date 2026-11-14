@@ -764,6 +764,7 @@ p{
 .social{
     height: 30px;
     fill: white; 
+    width: 30px;
 }
 .social:hover{
     transform: scale(1.2);
